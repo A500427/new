@@ -1,6 +1,6 @@
 import streamlit 
 import pandas 
-import plotly.express 
+import plotly
 import numpy as np
 import folium
 import requests
